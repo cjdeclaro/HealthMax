@@ -101,7 +101,7 @@ Contributions to the initial app will be limited to the main product requirement
 - [ ] Prepare the Machnine
 
 ## Versioning
-The project uses (git)[https://git-scm.com/downloads] for versioning. For the version status, see the (tags on this repository.)[https://github.com/cjdeclaro/HealthMax/tags]
+The project uses [git](https://git-scm.com/downloads) for versioning. For the version status, see the [tags on this repository.](https://github.com/cjdeclaro/HealthMax/tags)
 
 ## Authors
 * **Christopher Jay De Claro** - *Initial work* - [cjdeclaro](https://github.com/cjdeclaro)

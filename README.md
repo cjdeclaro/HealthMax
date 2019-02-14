@@ -105,8 +105,8 @@ The project uses [git](https://git-scm.com/downloads) for versioning. For the ve
 
 ## Authors
 * **Christopher Jay De Claro** - *Initial work* - [cjdeclaro](https://github.com/cjdeclaro)
-* **Germaine Aviles** - [winmalveda](https://github.com/winmalveda)
-* **Sherwin Malveda** - [germaineaviles](https://github.com/germaineaviles)
+* **Sherwin Malveda** - [winmalveda](https://github.com/winmalveda)
+* **Germaine Aviles** - [germaineaviles](https://github.com/germaineaviles)
 
 See also the list of [contributors](https://github.com/HealthMax/contributors) who participated in this project.
 

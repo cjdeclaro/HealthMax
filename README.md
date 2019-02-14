@@ -17,7 +17,7 @@ In order to run the project, you need
 - Terminal - _Recommended: [Cmder](http://cmder.net/)_
 
 ### Installing
-Install the major features of Android Studio, including the `Version API - minimum of Jelly Bean` and `AVD Manager`
+Install the major features of Android Studio, including the `Version API - minimum of Lollipop` and `AVD Manager`
 
 ## Running the app
 `Build`the app.

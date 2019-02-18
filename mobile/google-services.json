@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "337300250376",
+    "firebase_url": "https://healthmax-2019.firebaseio.com",
+    "project_id": "healthmax-2019",
+    "storage_bucket": "healthmax-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337300250376:android:2c51d014b9c5ec54",
+        "android_client_info": {
+          "package_name": "com.cjdeclaro.healthmax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337300250376-f3midi40lh0r7ns5l560almgacsk3l4i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cjdeclaro.healthmax",
+            "certificate_hash": "cffb83c36279e9c254f9ec1b38a932a284c6802b"
+          }
+        },
+        {
+          "client_id": "337300250376-p65efggh81993bn32p8jvrsd7on69d3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QtUSvQmXKTHYOf1JiMGliGsamnM020A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337300250376-p65efggh81993bn32p8jvrsd7on69d3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
